@@ -1,0 +1,158 @@
+body{
+text-align: center;
+font-size: 200%;
+margin: 0;
+}
+
+h1{
+  color: #009DAE;
+  font-size: 5.625rem;
+  font-family: Sacramento,sans-serif;
+  margin: 50px auto 0 auto;
+}
+h2{
+  color: #39A6A3;
+  font-family: Montserrat,Arial;
+  font-size: 2.25rem;
+  font-weight:bolder;
+}
+h3{
+  color: #66BFBF;
+  font-family: 'Comfortaa', cursive;
+}
+h4{
+  color: #66BFBF;
+  font-family: 'Comfortaa', cursive;
+}
+p{
+ font-family: 'Comic Neue', cursive;
+ font-size: 90%
+}
+hr{
+  border: dotted #DFDFDE 5px;
+  border-bottom: none;
+  width: 5%;
+  margin: 100px auto;
+
+}
+a{
+  color: #11999E;
+  font-family: Montserrat,Arial;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+a:hover{
+  color: #EAF6F6;
+}
+.top{
+  background-color: #B4ECE3;
+  position: relative;
+  padding: 100px
+}
+.middle{
+  background-color: #FEF5ED;
+}
+.bottom{
+  background-color: #B4ECE3;
+  height: 100px;
+  padding: 50px 0 20px;
+
+}
+.pro{
+  text-decoration: underline;
+}
+.topimg{
+position: absolute;
+right:250px;
+top:50px;
+}
+.middleimg{
+  position: absolute;
+  left: 250px;
+}
+.bottomimg{
+  position: absolute;
+  left: 200px;
+  top: 100px;
+}
+.mountain{
+  position: relative;
+  top:50px;
+}
+.yogi{
+  margin: 50px auto auto auto;
+  width: 150px;
+}
+.c{
+  margin: auto 30px auto auto;
+  width: 25%;
+  float: left;
+}
+.game
+{
+  width: 25%;
+  float:right;
+  margin: auto auto auto 25px;
+}
+.skill-row{
+  margin: 100px auto 100px auto;
+  width: 50%;
+  text-align: left;
+  line-height: 2;
+}
+.code{
+  clear: left;
+}
+.gaming{
+clear: right;
+}
+.intro{
+  width: 50%;
+  margin: 50px auto 50px auto;
+}
+.contact{
+  width: 45%;
+  margin: 10px auto 60px;
+}
+.btn {
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   height: 29px;
+   line-height: 29px;
+   color: #00E2FF;
+  font-family: Montserrat,Arial;
+   width: 198px;
+   font-size: 28px;
+   font-weight: 100;
+   padding: 15px;
+   background-color: #000000;
+   -webkit-box-shadow: inset 1px 1px 20px 0 #000000;
+   -moz-box-shadow: inset 1px 1px 20px 0 #000000;
+   box-shadow: inset 1px 1px 20px 0 #000000;
+   text-shadow: 1px -1px 21px #000000;
+   border: solid #00E2FF 5px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+   margin: 10px 35px 50px 10px;
+}
+
+.btn:hover {
+   background: #000000;
+   border: solid #00E2FF 5px;
+   -webkit-border-radius: 0;
+   -moz-border-radius: 0;
+   border-radius: 0;
+   text-decoration: none;
+}
+.fa-xl {
+    font-size: 1.5em;
+    line-height: .04167em;
+    vertical-align: -0.19em;
+}
+.copyright{
+  color:#9D9D9D;
+  font-size: 1.25rem;
+}
